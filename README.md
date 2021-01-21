@@ -2,7 +2,7 @@
 
 Practicing basic React JS concepts, like useState, useRef, and useEffect.
 
-Live: TBD\
+Live: https://mister-josuecedeno.github.io/basic-todo-list/
 
 ![Still JPG (408x536)](https://user-images.githubusercontent.com/47830532/105261025-831c9100-5b54-11eb-8603-5f9779b733bd.jpg)
 
